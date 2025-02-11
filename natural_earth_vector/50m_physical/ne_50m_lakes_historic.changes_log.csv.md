@@ -1,0 +1,2 @@
+wd_id  |  status  |  variable  |  value_old  |  value_new
+-------|----------|------------|-------------|-----------

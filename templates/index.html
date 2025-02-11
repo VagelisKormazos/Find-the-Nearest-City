@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="el">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Χάρτης Ελλάδας</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            background-color: #f0f0f0;
+        }
+        h1 {
+            margin-bottom: 20px;
+        }
+        #map {
+            height: 600px;
+            width: 80%;
+            border: 2px solid #ccc;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        button {
+            margin-top: 10px;
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <h1>Διαδραστικός Χάρτης Ελλάδας</h1>
+    <div id="map">{{ map_html | safe }}</div>
+    <button id="randomCrisisBtn">Δημιουργία Τυχαίου Σημείου Κρίσης</button>
+
+    <script>
+        document.getElementById('randomCrisisBtn').addEventListener('click', function() {
+            fetch('/random_crisis')
+            .then(response => response.json())
+            .then(data => {
+                alert(`Τυχαίο σημείο κρίσης: ${data.lat}, ${data.lng}`);
+            });
+        });
+    </script>
+</body>
+</html>

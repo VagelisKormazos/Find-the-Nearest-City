@@ -1,0 +1,140 @@
+wd_id     |  status    |  variable  |  value_old  |  value_new
+----------|------------|------------|-------------|--------------------------------
+Q917353   |  MODvalue  |  name_ko   |  모리스재섭 곶    |  모리스재섭곶
+Q128097   |  NEWvalue  |  name_de   |             |  Kap Farvel
+Q128097   |  NEWvalue  |  name_en   |             |  Cape Farewell
+Q128097   |  NEWvalue  |  name_es   |             |  Cabo Farewell
+Q128097   |  NEWvalue  |  name_fr   |             |  Cap Farvel
+Q128097   |  NEWvalue  |  name_el   |             |  Ακρωτήριο Φάρβελ
+Q128097   |  NEWvalue  |  name_hu   |             |  Farvel-fok
+Q128097   |  NEWvalue  |  name_it   |             |  Capo Farvel
+Q128097   |  NEWvalue  |  name_nl   |             |  Kaap Vaarwel
+Q128097   |  NEWvalue  |  name_pl   |             |  Farvel
+Q128097   |  NEWvalue  |  name_pt   |             |  Cabo Farvel
+Q128097   |  NEWvalue  |  name_ru   |             |  Фарвель
+Q128097   |  NEWvalue  |  name_sv   |             |  Kap Farvel
+Q128097   |  NEWvalue  |  name_zh   |             |  法韦尔角
+Q1352197  |  NEWvalue  |  name_de   |             |  Naturreservat Cap Sainte Marie
+Q1352197  |  NEWvalue  |  name_en   |             |  Cape Saint Marie
+Q1352197  |  NEWvalue  |  name_fr   |             |  Cap Sainte-Marie
+Q1352197  |  NEWvalue  |  name_nl   |             |  Cape Saint Marie
+Q1059267  |  NEWvalue  |  name_tr   |             |  Tabiteuea
+Q1059267  |  NEWvalue  |  name_vi   |             |  Tabiteuea
+Q1050891  |  NEWvalue  |  name_pl   |             |  Nikumaroro
+Q1050891  |  NEWvalue  |  name_tr   |             |  Nikumaroro
+Q14452    |  NEWvalue  |  name_ar   |             |  جزيرة القيامة
+Q14452    |  NEWvalue  |  name_bn   |             |  ইস্টার দ্বীপ
+Q14452    |  NEWvalue  |  name_de   |             |  Osterinsel
+Q14452    |  NEWvalue  |  name_en   |             |  Easter Island
+Q14452    |  NEWvalue  |  name_es   |             |  Isla de Pascua
+Q14452    |  NEWvalue  |  name_fr   |             |  île de Pâques
+Q14452    |  NEWvalue  |  name_el   |             |  Νησί του Πάσχα
+Q14452    |  NEWvalue  |  name_hi   |             |  ईस्टर द्वीप
+Q14452    |  NEWvalue  |  name_hu   |             |  Húsvét-sziget
+Q14452    |  NEWvalue  |  name_id   |             |  Pulau Paskah
+Q14452    |  NEWvalue  |  name_it   |             |  Isola di Pasqua
+Q14452    |  NEWvalue  |  name_ja   |             |  イースター島
+Q14452    |  NEWvalue  |  name_ko   |             |  이스터 섬
+Q14452    |  NEWvalue  |  name_nl   |             |  Paaseiland
+Q14452    |  NEWvalue  |  name_pl   |             |  Wyspa Wielkanocna
+Q14452    |  NEWvalue  |  name_pt   |             |  Ilha de Páscoa
+Q14452    |  NEWvalue  |  name_ru   |             |  Остров Пасхи
+Q14452    |  NEWvalue  |  name_sv   |             |  Påskön
+Q14452    |  NEWvalue  |  name_tr   |             |  Paskalya Adası
+Q14452    |  NEWvalue  |  name_vi   |             |  Đảo Phục Sinh
+Q14452    |  NEWvalue  |  name_zh   |             |  復活節島
+Q1100951  |  NEWvalue  |  name_es   |             |  cabo Agassiz
+Q1100932  |  NEWvalue  |  name_es   |             |  Cabo Jeremy
+Q870258   |  NEWvalue  |  name_de   |             |  Ebene der Tonkrüge
+Q870258   |  NEWvalue  |  name_en   |             |  Plain of Jars
+Q870258   |  NEWvalue  |  name_es   |             |  Llanura de las Jarras
+Q870258   |  NEWvalue  |  name_fr   |             |  Plaine des Jarres
+Q870258   |  NEWvalue  |  name_it   |             |  Piana delle giare
+Q870258   |  NEWvalue  |  name_ja   |             |  ジャール平原
+Q870258   |  NEWvalue  |  name_ko   |             |  단지평원
+Q870258   |  NEWvalue  |  name_nl   |             |  Vlakte der Kruiken
+Q870258   |  NEWvalue  |  name_pl   |             |  Równina Dzbanów
+Q870258   |  NEWvalue  |  name_ru   |             |  Долина Кувшинов
+Q870258   |  NEWvalue  |  name_sv   |             |  Krukslätten
+Q870258   |  NEWvalue  |  name_vi   |             |  Cánh đồng Chum
+Q870258   |  NEWvalue  |  name_zh   |             |  查爾平原
+Q3307973  |  NEWvalue  |  name_en   |             |  Point Conception
+Q3307973  |  NEWvalue  |  name_es   |             |  Punta Concepción
+Q3307973  |  NEWvalue  |  name_fr   |             |  Point Conception
+Q3307973  |  NEWvalue  |  name_ja   |             |  ポイント・コンセプション
+Q3307973  |  NEWvalue  |  name_pt   |             |  Point Conception
+Q3307973  |  NEWvalue  |  name_zh   |             |  康塞普申角
+Q193401   |  NEWvalue  |  name_el   |             |  Ακρωτήριο Κανάβεραλ
+Q1020776  |  NEWvalue  |  name_ar   |             |  كابو سان لوكاس
+Q1020776  |  NEWvalue  |  name_bn   |             |  কাবু সান লুকাস
+Q1020776  |  NEWvalue  |  name_de   |             |  Cabo San Lucas
+Q1020776  |  NEWvalue  |  name_en   |             |  Cabo San Lucas
+Q1020776  |  NEWvalue  |  name_es   |             |  Cabo San Lucas
+Q1020776  |  NEWvalue  |  name_fr   |             |  Cabo San Lucas
+Q1020776  |  NEWvalue  |  name_el   |             |  Κάβο Σαν Λούκας
+Q1020776  |  NEWvalue  |  name_hi   |             |  कबो सैन लुकस
+Q1020776  |  NEWvalue  |  name_hu   |             |  Cabo San Lucas
+Q1020776  |  NEWvalue  |  name_id   |             |  Cabo San Lucas
+Q1020776  |  NEWvalue  |  name_it   |             |  Cabo San Lucas
+Q1020776  |  NEWvalue  |  name_ja   |             |  サンルーカス岬
+Q1020776  |  NEWvalue  |  name_ko   |             |  카보산루카스
+Q1020776  |  NEWvalue  |  name_nl   |             |  Cabo San Lucas
+Q1020776  |  NEWvalue  |  name_pl   |             |  Cabo San Lucas
+Q1020776  |  NEWvalue  |  name_pt   |             |  Cabo San Lucas
+Q1020776  |  NEWvalue  |  name_ru   |             |  Кабо-Сан-Лукас
+Q1020776  |  NEWvalue  |  name_sv   |             |  Cabo San Lucas
+Q1020776  |  NEWvalue  |  name_tr   |             |  Cabo San Lucas
+Q1020776  |  NEWvalue  |  name_vi   |             |  Cabo San Lucas
+Q1020776  |  NEWvalue  |  name_zh   |             |  卡布聖盧卡斯
+Q329422   |  NEWvalue  |  name_hu   |             |  Robinson Crusoe sziget
+Q987098   |  NEWvalue  |  name_de   |             |  Punta Negra
+Q987098   |  NEWvalue  |  name_en   |             |  Punta Negra
+Q987098   |  NEWvalue  |  name_es   |             |  Punta Negra
+Q987098   |  NEWvalue  |  name_fr   |             |  Punta Negra
+Q987098   |  NEWvalue  |  name_nl   |             |  Punta Negra
+Q194215   |  MODvalue  |  name_fr   |  Amsterdam  |  Île Amsterdam
+Q194215   |  MODvalue  |  name_fr   |  Amsterdam  |  Île Amsterdam
+Q152872   |  NEWvalue  |  name_pt   |             |  Pirâmide de Ball
+Q1034489  |  NEWvalue  |  name_hu   |             |  Pálma-fok
+Q752003   |  NEWvalue  |  name_de   |             |  Pol der Unzugänglichkeit
+Q752003   |  NEWvalue  |  name_en   |             |  pole of inaccessibility
+Q752003   |  NEWvalue  |  name_es   |             |  Polo de inaccesibilidad
+Q752003   |  NEWvalue  |  name_fr   |             |  pôle d'inaccessibilité
+Q752003   |  NEWvalue  |  name_hu   |             |  Némó-pont
+Q752003   |  NEWvalue  |  name_id   |             |  Titik terpencil
+Q752003   |  NEWvalue  |  name_it   |             |  Polo dell'inaccessibilità
+Q752003   |  NEWvalue  |  name_ja   |             |  到達不能極
+Q752003   |  NEWvalue  |  name_ko   |             |  도달불능극
+Q752003   |  NEWvalue  |  name_nl   |             |  pool van ontoegankelijkheid
+Q752003   |  NEWvalue  |  name_pl   |             |  Biegun niedostępności
+Q752003   |  NEWvalue  |  name_pt   |             |  Polo de inacessibilidade
+Q752003   |  NEWvalue  |  name_ru   |             |  Полюс недоступности
+Q752003   |  NEWvalue  |  name_sv   |             |  Otillgänglighetspol
+Q752003   |  NEWvalue  |  name_vi   |             |  Cực bất khả tiếp cận
+Q752003   |  NEWvalue  |  name_zh   |             |  難抵極
+Q1043682  |  NEWvalue  |  name_de   |             |  magnetischer Südpol
+Q1043682  |  NEWvalue  |  name_en   |             |  South Magnetic Pole
+Q1043682  |  NEWvalue  |  name_fr   |             |  Pôle Sud magnétique
+Q1043682  |  NEWvalue  |  name_it   |             |  Polo Sud Magnetico
+Q1043682  |  NEWvalue  |  name_ja   |             |  南磁極
+Q1043682  |  NEWvalue  |  name_ko   |             |  자남극
+Q1043682  |  NEWvalue  |  name_pt   |             |  Polo sul magnético
+Q1043682  |  NEWvalue  |  name_ru   |             |  южный магнитный полюс
+Q1043682  |  NEWvalue  |  name_sv   |             |  Magnetiska sydpolen
+Q1043682  |  NEWvalue  |  name_vi   |             |  Cực Nam từ
+Q1043682  |  NEWvalue  |  name_zh   |             |  地磁南极
+Q842763   |  NEWvalue  |  name_ar   |             |  قطب شمالي مغناطيسي
+Q842763   |  NEWvalue  |  name_de   |             |  magnetischer Nordpol
+Q842763   |  NEWvalue  |  name_en   |             |  North Magnetic Pole
+Q842763   |  NEWvalue  |  name_es   |             |  Polo Norte magnético
+Q842763   |  NEWvalue  |  name_fr   |             |  Pôle Nord magnétique
+Q842763   |  NEWvalue  |  name_el   |             |  Μαγνητικός Βόρειος Πόλος
+Q842763   |  NEWvalue  |  name_ja   |             |  北磁極
+Q842763   |  NEWvalue  |  name_ko   |             |  자북극
+Q842763   |  NEWvalue  |  name_nl   |             |  magnetische noordpool
+Q842763   |  NEWvalue  |  name_pt   |             |  Polo norte magnético
+Q842763   |  NEWvalue  |  name_ru   |             |  Северный магнитный полюс
+Q842763   |  NEWvalue  |  name_sv   |             |  Magnetiska nordpolen
+Q842763   |  NEWvalue  |  name_tr   |             |  Manyetik Kuzey Kutbu
+Q842763   |  NEWvalue  |  name_vi   |             |  Cực Bắc từ
+Q842763   |  NEWvalue  |  name_zh   |             |  地磁北极
