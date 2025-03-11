@@ -4,6 +4,7 @@ import geopandas as gpd
 import numpy as np
 from shapely.geometry import box
 
+
 app = Flask(__name__)
 
 # Φόρτωση των δεδομένων
@@ -90,11 +91,28 @@ def create_map():
         popup=nearest_city_4326['NAME'].iloc[0]
     ).add_to(m)
 
-    # Εκτύπωση για έλεγχο
-    print(f"Nearest City Coordinates (EPSG:4326): {nearest_city_4326.geometry.y}, {nearest_city_4326.geometry.x}")
+    # Προσθήκη γραμμής που ενώνει το σημείο κρίσης με την πλησιέστερη πόλη
+    folium.PolyLine(
+        locations=[[crisis_lat, crisis_lng], [nearest_city_4326.geometry.y.iloc[0], nearest_city_4326.geometry.x.iloc[0]]],
+        color='red',
+        weight=2.5,
+        opacity=1
+    ).add_to(m)
+
+    # Υπολογισμός του μέσου της γραμμής
+    mid_lat = (crisis_lat + nearest_city_4326.geometry.y.iloc[0]) / 2
+    mid_lng = (crisis_lng + nearest_city_4326.geometry.x.iloc[0]) / 2
+
+    # Προσθήκη του σημείου στο μέσο της γραμμής
+    folium.Marker(
+        location=[mid_lat, mid_lng],
+        icon=folium.Icon(color="blue", icon="user", prefix='fa'),
+        popup="Mid Point"
+    ).add_to(m)
 
     folium.LayerControl().add_to(m)
     return m._repr_html_()
+
 
 @app.route('/')
 def home():
